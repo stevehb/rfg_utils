@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FrameCombiner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/</output-path>
+    <root id="archive" name="FrameCombiner.jar">
+      <element id="module-output" name="FrameCombiner" />
+    </root>
+  </artifact>
+</component>
